@@ -10,6 +10,8 @@ public class ExperienceManager : MonoBehaviour
     private int currentLevel = 1;
 
     [SerializeField] private ExperienceUI experienceUI;
+    [SerializeField] private LevelUpUI levelUpUI;
+    [SerializeField] private EnemySpawner enemySpawner;
 
     private void Awake()
     {
@@ -18,10 +20,7 @@ public class ExperienceManager : MonoBehaviour
 
     private void Start()
     {
-        experienceUI.UpdateExp(
-            currentExp,
-            expToNextLevel,
-            currentLevel);
+        UpdateUI();
     }
 
     public void AddExp(int amount)
@@ -31,14 +30,10 @@ public class ExperienceManager : MonoBehaviour
         while (currentExp >= expToNextLevel)
         {
             currentExp -= expToNextLevel;
-
             LevelUp();
         }
 
-        experienceUI.UpdateExp(
-            currentExp,
-            expToNextLevel,
-            currentLevel);
+        UpdateUI();
     }
 
     private void LevelUp()
@@ -48,5 +43,16 @@ public class ExperienceManager : MonoBehaviour
         expToNextLevel += 50;
 
         Debug.Log($"LEVEL UP! {currentLevel}");
+
+        enemySpawner?.ReduceSpawnTime(0.5f);
+        levelUpUI?.ShowLevelUp(currentLevel);
+    }
+
+    private void UpdateUI()
+    {
+        experienceUI?.UpdateExp(
+            currentExp,
+            expToNextLevel,
+            currentLevel);
     }
 }

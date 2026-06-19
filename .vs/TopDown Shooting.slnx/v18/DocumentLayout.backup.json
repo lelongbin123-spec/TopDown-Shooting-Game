@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Unity\\TopDown Shooting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\player\\playerhealthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\player\\playerhealthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\ui\\experienceui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\ui\\experienceui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +25,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\collectable\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\collectable\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\collectable\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,28 +55,12 @@
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\player\\playerhealthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\player\\playerhealthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\player\\playerflash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\player\\playerflash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\topdown shooting\\assets\\udev\\tds\\scritps\\collectable\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\udev\\tds\\scritps\\collectable\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\IDamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UDEV\\TDS\\Scritps\\IDamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,17 +70,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ExperienceUI.cs",
               "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\UI\\ExperienceUI.cs",
               "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\UI\\ExperienceUI.cs",
               "ToolTip": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\UI\\ExperienceUI.cs",
               "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\UI\\ExperienceUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-17T08:47:06.135Z",
               "EditorCaption": ""
@@ -84,19 +88,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PlayerHealthUI.cs",
+              "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealthUI.cs",
+              "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealthUI.cs",
+              "ToolTip": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealthUI.cs",
+              "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealthUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T07:32:51.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ExperienceManager.cs",
               "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\ExperienceManager.cs",
               "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\ExperienceManager.cs",
               "ToolTip": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\ExperienceManager.cs",
               "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\ExperienceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-17T08:46:15.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CoinManager.cs",
               "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\CoinManager.cs",
               "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\CoinManager.cs",
@@ -109,20 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Coin.cs",
-              "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Collectable\\Coin.cs",
-              "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Collectable\\Coin.cs",
-              "ToolTip": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Collectable\\Coin.cs",
-              "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Collectable\\Coin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T08:24:43.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Enemy\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Enemy\\EnemyHealth.cs",
@@ -130,12 +134,11 @@
               "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Enemy\\EnemyHealth.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAcwFUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T08:13:56.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T08:13:56.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "PlayerFlash.cs",
               "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerFlash.cs",
               "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerFlash.cs",
@@ -143,25 +146,11 @@
               "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerFlash.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T07:34:12.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T07:34:12.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PlayerHealthUI.cs",
-              "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealthUI.cs",
-              "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealthUI.cs",
-              "ToolTip": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealthUI.cs",
-              "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealthUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T07:32:51.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\GameManager.cs",
@@ -169,11 +158,12 @@
               "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:53:21.771Z"
+              "WhenOpened": "2026-06-11T12:53:21.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "EnemySpawner.cs",
               "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Enemy\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Enemy\\EnemySpawner.cs",
@@ -181,11 +171,12 @@
               "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Enemy\\EnemySpawner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:47:38.044Z"
+              "WhenOpened": "2026-06-11T12:47:38.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "Gun.cs",
               "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Collectable\\Gun.cs",
               "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Collectable\\Gun.cs",
@@ -193,11 +184,37 @@
               "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Collectable\\Gun.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:41:46.568Z"
+              "WhenOpened": "2026-06-11T12:41:46.568Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealth.cs",
+              "ToolTip": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:46:07.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Collectable\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Collectable\\Coin.cs",
+              "ToolTip": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Collectable\\Coin.cs",
+              "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Collectable\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T08:24:43.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Bullet.cs",
               "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Collectable\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Collectable\\Bullet.cs",
@@ -205,12 +222,11 @@
               "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Collectable\\Bullet.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAUwB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:39:13.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T12:39:13.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "EnemyCotroller.cs",
               "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Enemy\\EnemyCotroller.cs",
               "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Enemy\\EnemyCotroller.cs",
@@ -218,12 +234,11 @@
               "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Enemy\\EnemyCotroller.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAEAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:34:53.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T12:34:53.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerController.cs",
@@ -231,20 +246,19 @@
               "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerController.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAcwE8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:26:37.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T12:26:37.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealth.cs",
-              "ToolTip": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealth.cs",
-              "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\Player\\PlayerHealth.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDoAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\UDEV\\TDS\\Scritps\\IDamageable.cs",
+              "ToolTip": "D:\\Unity\\TopDown Shooting\\Assets\\UDEV\\TDS\\Scritps\\IDamageable.cs",
+              "RelativeToolTip": "Assets\\UDEV\\TDS\\Scritps\\IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T06:46:07.28Z",
+              "WhenOpened": "2026-06-18T12:55:38.016Z",
               "EditorCaption": ""
             }
           ]

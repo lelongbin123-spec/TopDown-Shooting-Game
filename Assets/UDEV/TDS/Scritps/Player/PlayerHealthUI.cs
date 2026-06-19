@@ -14,7 +14,7 @@ public class PlayerHealthUI : MonoBehaviour
 
         float percent = (float)current / max;
 
-        hpFill.DOFillAmount(percent, 0.25f);
+        hpFill.DOFillAmount(percent, 0.3f);
 
         hpText.text = $"{current}/{max}";
     }

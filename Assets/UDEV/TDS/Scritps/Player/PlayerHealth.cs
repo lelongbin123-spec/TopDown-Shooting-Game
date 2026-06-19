@@ -1,4 +1,6 @@
+using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerHealth : MonoBehaviour, IDamageable
 {
@@ -10,11 +12,25 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     private PlayerFlash playerFlash;
 
+    [SerializeField] private Transform graphic;
+    [SerializeField] private float respawnDelay = 2f;
+
+    private SpriteRenderer spriteRenderer;
+    private Collider2D playerCollider;
+    private PlayerController playerController;
+
+    private bool isDead;
+
+
     private void Awake()
     {
         currentHealth = maxHealth;
 
         playerFlash = GetComponent<PlayerFlash>();
+
+        spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+        playerCollider = GetComponent<Collider2D>();
+        playerController = GetComponent<PlayerController>();
     }
 
     private void Start()
@@ -31,6 +47,9 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     public void TakeDamage(int damage)
     {
+        if (isDead)
+            return;
+
         currentHealth -= damage;
 
         currentHealth = Mathf.Clamp(
@@ -49,13 +68,42 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
         if (currentHealth <= 0)
         {
-            Die();
+            isDead = true;
+            StartCoroutine(RespawnRoutine());
         }
     }
 
-    private void Die()
+    /*private void Die()
     {
-        Debug.Log("Game Over");
-        gameObject.SetActive(false);
+        PlayerLivesManager.Instance.LoseLife();
+
+        currentHealth = maxHealth;
+
+        healthUI.UpdateHP(
+            currentHealth,
+            maxHealth);
+
+        transform.position = Vector3.zero;
+    }*/
+
+    private IEnumerator RespawnRoutine()
+    {
+        PlayerLivesManager.Instance.LoseLife();
+
+        graphic.gameObject.SetActive(false);
+
+        yield return new WaitForSeconds(2f);
+
+        currentHealth = maxHealth;
+
+        transform.position = Vector3.zero;
+
+        healthUI.UpdateHP(
+            currentHealth,
+            maxHealth);
+
+        graphic.gameObject.SetActive(true);
+
+        isDead = false;
     }
 }

@@ -3,14 +3,24 @@ using UnityEngine;
 public class EnemySpawner : MonoBehaviour
 {
     [SerializeField] private GameObject enemyPrefab;
-
     [SerializeField] private Transform[] spawnPoints;
 
-    [SerializeField] private float spawnInterval = 2f;
+    [SerializeField] private float spawnInterval = 5f;
+    [SerializeField] private float minSpawnInterval = 0.5f;
 
-    private void Start()
+    private float timer;
+
+    public float SpawnInterval => spawnInterval;
+
+    private void Update()
     {
-        InvokeRepeating(nameof(SpawnEnemy), 1f, spawnInterval);
+        timer += Time.deltaTime;
+
+        if (timer >= spawnInterval)
+        {
+            timer = 0f;
+            SpawnEnemy();
+        }
     }
 
     private void SpawnEnemy()
@@ -28,5 +38,17 @@ public class EnemySpawner : MonoBehaviour
             enemyPrefab,
             spawnPoint.position,
             Quaternion.identity);
+    }
+
+    public void ReduceSpawnTime(float amount)
+    {
+        spawnInterval -= amount;
+
+        spawnInterval =
+            Mathf.Max(
+                minSpawnInterval,
+                spawnInterval);
+
+        Debug.Log($"Spawn Interval = {spawnInterval}");
     }
 }

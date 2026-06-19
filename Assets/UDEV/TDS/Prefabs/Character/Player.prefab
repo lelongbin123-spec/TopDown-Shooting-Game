@@ -314,6 +314,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
   maxHealth: 100
+  graphic: {fileID: 7341127584562811802}
+  respawnDelay: 2
 --- !u!114 &3917365602990422974
 MonoBehaviour:
   m_ObjectHideFlags: 0

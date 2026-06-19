@@ -1,9 +1,11 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
+using DG.Tweening;
 
 public class ExperienceUI : MonoBehaviour
 {
-    [SerializeField] private Transform expFill;
+    [SerializeField] private Image expFill;
     [SerializeField] private TextMeshProUGUI expText;
     [SerializeField] private TextMeshProUGUI levelText;
 
@@ -15,8 +17,7 @@ public class ExperienceUI : MonoBehaviour
         float percent =
             (float)currentExp / maxExp;
 
-        expFill.localScale =
-            new Vector3(percent, 1f, 1f);
+        expFill.DOFillAmount(percent, 0.3f);
 
         levelText.text =
             $"Level {level}";
